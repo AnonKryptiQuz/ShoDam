@@ -46,4 +46,10 @@
 
 ## **Author**
 
-**Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
+**Created by:**
+- [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
+- [1hehaq](https://github.com/1hehaq)
+- [HexShad0w](https://github.com/HexShad0w)
+- [coffinxp](https://github.com/coffinxp)
+- [Naho666](https://github.com/Naho666)
+
