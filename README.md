@@ -18,7 +18,7 @@
 1. **Import the Bookmarklet:**
 
    - Open your **Bookmark Manager** in your browser.
-   - Choose **Import** and select the [ShoDam_Import.html](https://github.com/AnonKryptiQuz/ShoDam/blob/main/ShoDam_Import.html) file from your system.
+   - Choose **Import** and select the [ShoDam_Import.html](https://github.com/AnonKryptiQuz/ShoDam/blob/main/ShoDam__Import.html) file from your system.
    - This will add the **ShoDam** bookmarklet to your bookmarks bar.
 
 2. **Manual Setup (if needed):**
