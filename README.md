@@ -18,13 +18,13 @@
 1. **Import the Bookmarklet:**
 
    - Open your **Bookmark Manager** in your browser.
-   - Choose **Import** and select the [ShoDam_Import.html](ShoDam_Import.html) file from your system.
+   - Choose **Import** and select the [ShoDam_Import.html]([ShoDam_Import.html](https://github.com/AnonKryptiQuz/ShoDam/blob/main/ShoDam__Import.html)) file from your system.
    - This will add the **ShoDam** bookmarklet to your bookmarks bar.
 
 2. **Manual Setup (if needed):**
 
    If you prefer to manually add the bookmarklet:
-   - Open the [ShoDam_Bookmarklet.txt](ShoDam_Bookmarklet.txt) file and copy the following code inside it:
+   - Open the [ShoDam_Bookmarklet.txt]([ShoDam_Bookmarklet.txt](https://github.com/AnonKryptiQuz/ShoDam/blob/main/ShoDam_Bookmarklet.txt)) file and copy the following code inside it:
 
      ```javascript
      javascript:(function(){var ipElements=document.querySelectorAll('strong');var ips=[];ipElements.forEach(function(e){ips.push(e.innerHTML.replace(/[&quot;']/g,'').trim())});var ipsString=ips.join('\n');var a=document.createElement('a');a.href='data:text/plain;charset=utf-8,'+encodeURIComponent(ipsString);a.download='ShoDam.txt';document.body.appendChild(a);a.click();document.body.removeChild(a);URL.revokeObjectURL(a.href);})();
